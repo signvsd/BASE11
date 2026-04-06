@@ -1,8 +1,8 @@
 # BASE11
 
-BASE
-- Built on OP Stack
-- Developed by Coinbase
-- Supports easy bridging from Ethereum
+Today's Progress
+- Completed basic understanding of Base
+- Created learning notes
+-STEUPED MY BASE AC
 
-Next goal: Set up MetaMask wallet for Base network.
+
