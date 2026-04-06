@@ -1,4 +1,8 @@
 # BASE11
 
+BASE
+- Built on OP Stack
+- Developed by Coinbase
+- Supports easy bridging from Ethereum
 
-Today I started learning about Base chain. It is an Ethereum Layer 2 solution that offers fast and low-cost transactions. 
+Next goal: Set up MetaMask wallet for Base network.
