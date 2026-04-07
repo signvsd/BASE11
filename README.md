@@ -1,12 +1,9 @@
 # BASE11
+Learning Goals for This Week
 
-  Deployed Contracts Progress
+- Deploy at least 10 different contracts on Base Mainnet
+- Test contract functions (read and write operations)
+- Understand gas optimization for simple contracts
+- Explore Base ecosystem projects and documentation
 
-So far I have deployed the following contracts on Base Mainnet but it is little confusing but if you done it 1 time you can do it in sleep also
-
-1. BaseGreeting - A simple greeting contract with updateable message
-2. BaseInfo - Stores basic information about Base chain
-3. BaseFeatures - Highlights key technical features of Base
-
-All contracts were deployed using Remix IDE with MetaMask connected to Base Mainnet.
-Next target is about to learn few codes so i can make my own greeetings on base.
+Consistentcy will make it easy broos
