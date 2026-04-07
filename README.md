@@ -1,11 +1,11 @@
 # BASE11
 
-Base is a Layer 2 blockchain developed by Coinbase on top of Ethereum's OP Stack. 
-It provides extremely fast transactions with very low fees while inheriting Ethereum's security.
+ Why I Chose Base for Learning
 
-Key Highlights-
-- Chain ID: 8453
-- Native Token: ETH
-- Explorer: https://basescan.org
-- Focus: Onchain economy for everyone
-- doing this thing you can add base chain on metamask
+Base stands out because of its:
+- Super low gas fees compared to Ethereum mainnet
+- High throughput and fast block times
+- Strong backing from Coinbase which brings real user adoption
+- Easy bridging from Ethereum and other L2s
+
+Today I started deploying my first few contracts on Base Mainnet to understand the deployment process better.
