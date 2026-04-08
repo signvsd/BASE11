@@ -1,12 +1,7 @@
 # BASE11
 
-Technical Details of Base Chain
+My First Impressions After Deploying Contracts
 
-Base operates as an Optimistic Rollup Layer 2 solution. It uses the OP Stack developed by Optimism, which allows it to benefit from Ethereum's security while providing much higher scalability.
+After successfully deploying my initial contracts on Base Mainnet using Remix and MetaMask, I noticed how smooth the experience was. Transaction confirmations were fast and gas fees remained very low even during deployment.
 
-Important Technical Specs-
-- Settlement Layer- Ethereum Mainnet
-- Data Availability- Ethereum
-- Consensus Mechanism: Optimistic with fraud proofs
-- Average Block Time: ~2 seconds
-- Gas Token: ETH
+This low-cost environment makes Base an excellent choice for developers who want to experiment and build without worrying about high fees.
