@@ -1,14 +1,10 @@
 # BASE11
 
-Comparison Between Base and Other Layer 2 Solutions
+## Challenges I Faced While Learning Base
 
-Base vs Ethereum Mainnet:
-- Much lower transaction costs
-- Faster confirmation times
+Initial challenges included:
+- Properly configuring MetaMask for Base Mainnet
+- Understanding gas estimation in Remix IDE
+- Ensuring correct network selection before deployment
 
-Base vs Arbitrum/Optimism:
-- Strong institutional backing from Coinbase
-- Simple user onboarding through Coinbase Wallet
-- Growing ecosystem of dApps and projects
-
-These advantages make Base one of the most promising L2 chains in 2026.
+Overcoming these small hurdles has improved my overall blockchain development skills and confidence.
