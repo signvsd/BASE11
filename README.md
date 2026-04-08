@@ -1,10 +1,11 @@
 # BASE11
 
-## Challenges I Faced While Learning Base
+## Future Plans for Base Chain Projects
 
-Initial challenges included:
-- Properly configuring MetaMask for Base Mainnet
-- Understanding gas estimation in Remix IDE
-- Ensuring correct network selection before deployment
+Next steps in my Base journey:
+- Deploy more complex contracts with multiple functions
+- Experiment with contract interactions and events
+- Learn about bridging assets to and from Base
+- Explore popular Base ecosystem projects like Aerodrome, Uniswap on Base
 
-Overcoming these small hurdles has improved my overall blockchain development skills and confidence.
+I aim to document all progress in this repository for future reference.
