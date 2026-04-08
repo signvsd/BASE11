@@ -1,9 +1,12 @@
 # BASE11
-Activity Summary
 
-- Added detailed Base chain information to README
-- Documented reasons for learning Base
-- Listed first deployed contracts with descriptions
-- Set clear weekly goals for 10+ contract deployments
+Technical Details of Base Chain
 
-This is part of my consistent effort to learn and build on Base chain. YOU can also learn it easily with me or can take help of Ai to learn more thngs about github starting works. Try small and make it better Everyday.
+Base operates as an Optimistic Rollup Layer 2 solution. It uses the OP Stack developed by Optimism, which allows it to benefit from Ethereum's security while providing much higher scalability.
+
+Important Technical Specs-
+- Settlement Layer- Ethereum Mainnet
+- Data Availability- Ethereum
+- Consensus Mechanism: Optimistic with fraud proofs
+- Average Block Time: ~2 seconds
+- Gas Token: ETH
