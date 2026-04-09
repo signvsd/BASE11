@@ -1,7 +1,11 @@
 # BASE11
 
- Understanding Layer 2 Scaling Solutions
+Benefits of Building on Base in 2026
 
-Layer 2 solutions like Base help solve Ethereum's scalability issues by processing transactions off the main chain while still using Ethereum for security. 
+In 2026, Base has become one of the most developer-friendly chains because of:
+- Extremely low transaction fees
+- Growing number of users and dApps
+- Easy integration with popular tools like Remix and MetaMask
+- Strong community and ecosystem support from Coinbase
 
-Base achieves this through optimistic rollups, which assume transactions are valid by default and only verify them if someone challenges them. This approach significantly reduces costs and increases speed.
+These factors make it ideal for new developers to start their onchain journey.
