@@ -1,12 +1,7 @@
 # BASE11
 
- Daily Progress Update 
+ Understanding Layer 2 Scaling Solutions
 
-Today I focused on expanding my learning documentation:
-- Added technical details of Base architecture
-- Shared personal impressions after deployments
-- Compared Base with other Layer 2 solutions
-- Reflected on learning challenges and solutions
-- Planned upcoming project ideas
+Layer 2 solutions like Base help solve Ethereum's scalability issues by processing transactions off the main chain while still using Ethereum for security. 
 
-This consistent documentation is helping me track my progress effectively.
+Base achieves this through optimistic rollups, which assume transactions are valid by default and only verify them if someone challenges them. This approach significantly reduces costs and increases speed.
