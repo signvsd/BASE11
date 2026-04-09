@@ -1,11 +1,12 @@
 # BASE11
 
-Important Tools I Am Using for Base Development
+Today summary
 
-Current toolchain:
-- MetaMask wallet for connecting to Base Mainnet
-- Remix IDE for writing, compiling and deploying contracts
-- Basescan.org for verifying deployed contracts and transactions
-- This GitHub repository for documenting all progress
+Today I continued building my Base knowledge base by
+Understanding Layer 2 concepts in details using x,documents and youtube
+Noting down the benefits of developing on Base in a paper
+Reflecting on my deployment experience 
+Listing the essential tools for Base development
 
-These tools together make the learning process simple and effective for beginners.
+
+I am committed to consistent learning on base and also layer2 ....
