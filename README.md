@@ -1,11 +1,8 @@
 # BASE11
 
-Benefits of Building on Base in 2026
+ My Deployment Journey So Far
 
-In 2026, Base has become one of the most developer-friendly chains because of:
-- Extremely low transaction fees
-- Growing number of users and dApps
-- Easy integration with popular tools like Remix and MetaMask
-- Strong community and ecosystem support from Coinbase
+I have now started deploying simple contracts on Base Mainnet. 
+Each deployment teaches me something new about gas optimization, contract compilation, and interacting with the blockchain through Remix IDE.
 
-These factors make it ideal for new developers to start their onchain journey.
+The process has been smoother than expected, especially with Base's low gas fees allowing me to experiment freely without high costs.
