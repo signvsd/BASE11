@@ -1,10 +1,11 @@
 # BASE11
 
-Personal Experience with Deploying Contracts on Base
+Why Base is Becoming Popular Among Developers in 2026
 
-Deploying my first few contracts on Base Mainnet using Remix IDE was a great learning experience. 
-The transactions confirmed very quickly, and the gas fees were surprisingly low even when I called functions after deployment.
+From what I have observed, Base is gaining huge popularity because:
+- It offers one of the lowest gas fees among all major Layer 2 solutions
+- Coinbase's strong backing gives users confidence and easy onboarding
+- The developer tools and documentation are beginner-friendly
+- The ecosystem is growing rapidly with new DeFi and NFT projects
 
-This hands-on practice is helping me understand not just the theory but also the real-world feel of working on a live Layer 2 chain. I am starting to feel more confident with every deployment.
-
-The first try was so boring but wen it was done now i can do any deploy.
+Many new developers like me are choosing Base as their first L2 to build on.
