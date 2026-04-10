@@ -1,11 +1,11 @@
 # BASE11
 
-Why Base is Becoming Popular Among Developers in 2026
+ My Current Learning Approach for Base Chain
 
-From what I have observed, Base is gaining huge popularity because:
-- It offers one of the lowest gas fees among all major Layer 2 solutions
-- Coinbase's strong backing gives users confidence and easy onboarding
-- The developer tools and documentation are beginner-friendly
-- The ecosystem is growing rapidly with new DeFi and NFT projects
+I have decided to take a structured approach to learn Base:
+- First, understand the core concepts of Layer 2 and OP Stack
+- Then deploy simple contracts to get comfortable with the tools
+- Gradually move to more interactive contracts and function calls
+- Document everything in this GitHub repository so I can track my progress
 
-Many new developers like me are choosing Base as their first L2 to build on.
+This step-by-step method is working well for me and keeping me motivated.
