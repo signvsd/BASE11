@@ -1,8 +1,11 @@
 # BASE11
 
-How Low Gas Fees Are Changing My Learning Experience
+Building Good Habits for Blockchain Development
 
-One thing that stands out the most while working on Base is how affordable it is to deploy and interact with contracts. 
-On Ethereum mainnet, even small experiments can become expensive, but on Base I can deploy multiple contracts and test functions without worrying about high costs.
+Through my Base journey, I am trying to develop better habits such as:
+- Documenting every new concept I learn
+- Deploying at least a few contracts every few days
+- Testing every function after deployment
+- Keeping all my progress publicly visible on GitHub
 
-This freedom is encouraging me to experiment more and learn faster.
+I believe these small consistent habits will help me become a better developer in the long run.
