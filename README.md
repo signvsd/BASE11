@@ -1,11 +1,12 @@
 # BASE11
 
- What Makes Base Different from Other Layer 2 Chains
+ Learning Summary
 
-After comparing a bit, Base feels different because of:
-- Direct support and integration from Coinbase
-- Very user-friendly onboarding for new people
-- Strong focus on real-world applications and mass adoption
-- Active community and regular ecosystem updates
+Today I added more thoughtful notes to my Base repository:
+- Learned about the OP Stack and how it powers Base
+- Reflected on the impact of low gas fees
+- Thought about developing good learning habits
+- Compared Base with other Layer 2 solutions
 
-These differences are the main reason I chose Base as my main learning chain right now.
+
+I am happy with the steady progress and looking forward to deploying more contracts soon.
