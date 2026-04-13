@@ -1,5 +1,9 @@
 # BASE11
-## What Makes Base Unique Among Layer 2 Chains
+## My Daily Learning Routine on Base
 
-Base stands out because of its strong support from Coinbase, simple user experience, and focus on real-world adoption. 
-These factors differentiate it from other Layer 2 solutions and make it more approachable for new developers.
+My current routine includes:
+- Learning new Base concepts every day
+- Deploying a few contracts
+- Documenting everything in this repository
+
+This consistent approach is helping me build strong fundamentals.
