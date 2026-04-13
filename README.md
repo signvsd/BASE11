@@ -1,7 +1,7 @@
 # BASE11
-Creating and Distributing Custom Tokens on Base
+ Using Basescan Explorer for Verification
 
-Today I deployed my first custom ERC20 token called Daddy Token on Base Mainnet. 
-I learned how to set initial supply and distribute tokens between different wallets during deployment.
+Basescan.org has become my go-to tool after every deployment. 
+It allows me to easily check contract details, transaction history, and token balances on Base.
 
-This was an important practical step in my learning.
+Verifying every contract on the explorer is now part of my regular workflow.
