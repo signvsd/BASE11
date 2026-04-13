@@ -1,12 +1,8 @@
 # BASE11
 
- Learning Summary
+ Understanding Base Chain Security Model
 
-Today I added more thoughtful notes to my Base repository:
-- Learned about the OP Stack and how it powers Base
-- Reflected on the impact of low gas fees
-- Thought about developing good learning habits
-- Compared Base with other Layer 2 solutions
+Base is an Optimistic Rollup Layer 2 that inherits Ethereum's security. 
+It processes transactions quickly and cheaply, while using fraud proofs to ensure the correctness of transactions. 
 
-
-I am happy with the steady progress and looking forward to deploying more contracts soon.
+This security model gives me confidence to build and experiment on Base.
