@@ -1,7 +1,7 @@
 # BASE11
- My Experience Deploying Contracts with Remix on Base
+Impact of Low Gas Fees on Base
 
-Using Remix IDE to deploy contracts on Base Mainnet has been very smooth. 
-Connecting MetaMask and confirming transactions is fast, and the entire process feels beginner-friendly.
+The extremely low gas fees on Base allow me to deploy and test multiple contracts without hesitation. 
+This is a big advantage compared to Ethereum mainnet, where even small tests can become expensive.
 
-This tool has made my learning journey much easier.
+It encourages more experimentation and faster learning.
