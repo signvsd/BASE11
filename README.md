@@ -1,7 +1,7 @@
 # BASE11
- Growth of DeFi on Base Chain
+ My Experience Deploying Contracts with Remix on Base
 
-DeFi projects on Base are growing rapidly due to its low transaction fees. 
-Users can trade, lend, and borrow more frequently without worrying about high gas costs. 
+Using Remix IDE to deploy contracts on Base Mainnet has been very smooth. 
+Connecting MetaMask and confirming transactions is fast, and the entire process feels beginner-friendly.
 
-This is making Base one of the most active Layer 2 chains for decentralized finance.
+This tool has made my learning journey much easier.
