@@ -1,7 +1,7 @@
 # BASE11
- Base Chain Transaction Speed Analysis
+ Importance of Bridging in Base Ecosystem
 
-One of the most impressive things about Base is its fast block time. 
-Blocks are produced approximately every 2 seconds, which is significantly quicker than Ethereum mainnet. 
+Bridging assets from Ethereum to Base is a crucial step for most users. 
+The official Base Bridge makes this process simple and relatively cheap. 
 
-This speed allows for much smoother user experience in dApps and makes real-time interactions possible on Layer 2.
+Understanding how bridging works is important because it enables users to bring their ETH and other tokens into the Base ecosystem to start using dApps.
