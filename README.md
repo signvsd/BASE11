@@ -1,7 +1,5 @@
 # BASE11
-## Role of Coinbase in Base Chain Development
+\## Learning Smart Contract Interactions on Base
 
-Coinbase has played a major role in Base's success by providing strong institutional backing. 
-Their involvement has helped attract both developers and regular users to the platform. 
-
-This backing gives Base an advantage in terms of trust and ecosystem growth compared to many other Layer 2 solutions.
+After deploying basic contracts, the next important step is learning how contracts interact with each other. 
+Calling functions, passing data, and handling events are essential skills for any blockchain developer working on Base.
