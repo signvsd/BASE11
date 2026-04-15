@@ -1,5 +1,5 @@
 # BASE11
-\## Learning Smart Contract Interactions on Base
+#Base Chain Block Production Mechanism
 
-After deploying basic contracts, the next important step is learning how contracts interact with each other. 
-Calling functions, passing data, and handling events are essential skills for any blockchain developer working on Base.
+Base produces blocks roughly every 2 seconds, making it one of the faster Layer 2 solutions. 
+This rapid block time significantly improves user experience for decentralized applications compared to Ethereum mainnet.
