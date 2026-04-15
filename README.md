@@ -1,5 +1,5 @@
 # BASE11
-## How Fraud Proofs Work on Optimistic Rollups
+## Data Availability on Base Chain
 
-Base uses optimistic rollups, which assume all transactions are valid by default. 
-If someone finds an invalid transaction, they can submit a fraud proof during the challenge period to correct it.
+Base posts transaction data back to Ethereum mainnet to ensure data availability. 
+This design allows anyone to verify the correctness of the chain while keeping execution costs low on Layer 2.
