@@ -1,5 +1,5 @@
 # BASE11
-##The Role of Sequencers in Base Network
+## How Fraud Proofs Work on Optimistic Rollups
 
-Sequencers on Base are responsible for ordering and executing transactions before they are finalized on Ethereum. 
-They play a critical role in maintaining fast transaction speeds while ensuring the network remains secure and efficient.
+Base uses optimistic rollups, which assume all transactions are valid by default. 
+If someone finds an invalid transaction, they can submit a fraud proof during the challenge period to correct it.
