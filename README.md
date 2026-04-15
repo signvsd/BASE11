@@ -1,5 +1,5 @@
 # BASE11
-#Base Chain Block Production Mechanism
+##The Role of Sequencers in Base Network
 
-Base produces blocks roughly every 2 seconds, making it one of the faster Layer 2 solutions. 
-This rapid block time significantly improves user experience for decentralized applications compared to Ethereum mainnet.
+Sequencers on Base are responsible for ordering and executing transactions before they are finalized on Ethereum. 
+They play a critical role in maintaining fast transaction speeds while ensuring the network remains secure and efficient.
