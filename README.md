@@ -1,5 +1,4 @@
 # BASE11
-## Base Bridge and Asset Transfer Process
+## Advantages of Using Testnet Before Mainnet Deployment
 
-The official Base Bridge enables users to move ETH and other tokens between Ethereum and Base. 
-Understanding this bridging process is essential for anyone who wants to actively use applications on the Base network.
+Practicing contract deployment on Base Sepolia testnet first helps developers understand gas behavior, network configuration, and common errors before using real ETH on mainnet.
