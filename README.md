@@ -1,5 +1,5 @@
 # BASE11
-User Onboarding Experience on Base
+ My Current Focus While Learning Base
 
-Base has made user onboarding quite simple, especially for those already using Coinbase Wallet. 
-The seamless transition from Ethereum to Base is one of the reasons it is gaining popularity among regular users.
+Right now I am concentrating on understanding how different components of Layer 2 architecture work together. 
+This includes sequencers, fraud proofs, data availability, and bridging mechanisms.
