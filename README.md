@@ -1,5 +1,5 @@
 # BASE11
-## The Growing Developer Community on Base
+Testing Smart Contracts Before Mainnet Deployment
 
-More and more developers are shifting their focus to Base because of its low costs and active ecosystem. 
-I have noticed several new projects and tools being announced regularly for the Base network.
+Before deploying any contract to Base Mainnet, it is a good practice to test it thoroughly on the Base Sepolia testnet first. 
+This helps catch bugs and understand gas consumption without risking real funds.
