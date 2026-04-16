@@ -1,5 +1,5 @@
 # BASE11
- My Current Focus While Learning Base
+## The Importance of Layer 2 Fees in User Adoption
 
-Right now I am concentrating on understanding how different components of Layer 2 architecture work together. 
-This includes sequencers, fraud proofs, data availability, and bridging mechanisms.
+Low transaction fees on Layer 2 solutions like Base play a major role in encouraging regular users to interact with blockchain applications. 
+When fees are too high, many people avoid using dApps, but Base makes small transactions and frequent interactions affordable for everyone.
