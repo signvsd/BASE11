@@ -1,5 +1,5 @@
 # BASE11
-Base Chain's Approach to Scalability
+Challenges of Building Cross-Chain Applications
 
-Base uses optimistic rollups to achieve high scalability without compromising on security. 
-By moving most transaction execution off Ethereum mainnet while still anchoring to it, Base is able to handle significantly more transactions per second than the base layer.
+When developing applications that work across Ethereum and Base, one major challenge is handling differences in gas fees, block times, and bridging delays. 
+Solving these issues properly is important for creating a smooth user experience.
