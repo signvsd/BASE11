@@ -1,5 +1,5 @@
 # BASE11
-## The Connection Between Base and Ethereum Mainnet
+## Why Developers Prefer Base for Quick Prototyping
 
-Base regularly sends compressed transaction data back to Ethereum mainnet. 
-This connection ensures that anyone can verify the state of the Base chain using Ethereum's decentralized infrastructure.
+The combination of fast confirmation times and very low gas fees makes Base an excellent choice for quickly testing new ideas. 
+Developers can deploy and iterate on contracts much faster compared to other networks.
