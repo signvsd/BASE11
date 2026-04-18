@@ -1,5 +1,5 @@
 # BASE11
-## Base Chain's Focus on Real-World Usability
+## Learning About Modular Blockchain Design Through Base
 
-Base is built with a strong emphasis on making blockchain accessible to everyday users. 
-Its design choices prioritize simplicity and low costs to encourage broader participation in onchain activities.
+Base follows a modular approach where execution, settlement, and data availability are handled by different layers. 
+This design pattern is becoming increasingly popular in the blockchain space.
