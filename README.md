@@ -1,5 +1,5 @@
 # BASE11
-## How Base Chain Handles High Transaction Volume
+## The Connection Between Base and Ethereum Mainnet
 
-Base is designed to process a large number of transactions efficiently by executing them off-chain and only settling final results on Ethereum. 
-This approach allows the network to support thousands of transactions per second while maintaining security.
+Base regularly sends compressed transaction data back to Ethereum mainnet. 
+This connection ensures that anyone can verify the state of the Base chain using Ethereum's decentralized infrastructure.
