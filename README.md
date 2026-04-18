@@ -1,5 +1,4 @@
 # BASE11
-## The Role of Optimism in Base's Development
+## Preparing for Advanced Development on Base
 
-Even though Base is operated by Coinbase, it is built using the OP Stack originally developed by Optimism. 
-This open-source foundation allows Base to benefit from community improvements and shared security standards.
+After getting comfortable with basic deployments, the next step involves learning contract-to-contract interactions, event handling, and gas optimization techniques specific to the Base network.
