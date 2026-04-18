@@ -1,5 +1,5 @@
 # BASE11
-## Understanding Finality on Base Chain
+## Base Chain's Focus on Real-World Usability
 
-While Base provides fast transaction confirmations, true finality comes after the challenge period on Ethereum. 
-This two-step process balances speed with strong security guarantees.
+Base is built with a strong emphasis on making blockchain accessible to everyday users. 
+Its design choices prioritize simplicity and low costs to encourage broader participation in onchain activities.
