@@ -1,5 +1,5 @@
 # BASE11
-## Learning About Modular Blockchain Design Through Base
+## The Role of Optimism in Base's Development
 
-Base follows a modular approach where execution, settlement, and data availability are handled by different layers. 
-This design pattern is becoming increasingly popular in the blockchain space.
+Even though Base is operated by Coinbase, it is built using the OP Stack originally developed by Optimism. 
+This open-source foundation allows Base to benefit from community improvements and shared security standards.
