@@ -1,5 +1,5 @@
 # BASE11
-## The Importance of Layer 2 Fees in User Adoption
+## How Base Chain Handles High Transaction Volume
 
-Low transaction fees on Layer 2 solutions like Base play a major role in encouraging regular users to interact with blockchain applications. 
-When fees are too high, many people avoid using dApps, but Base makes small transactions and frequent interactions affordable for everyone.
+Base is designed to process a large number of transactions efficiently by executing them off-chain and only settling final results on Ethereum. 
+This approach allows the network to support thousands of transactions per second while maintaining security.
