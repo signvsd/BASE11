@@ -1,4 +1,5 @@
 # BASE11
-## Preparing for Advanced Development on Base
+## Base Chain's Modular Execution Layer
 
-After getting comfortable with basic deployments, the next step involves learning contract-to-contract interactions, event handling, and gas optimization techniques specific to the Base network.
+Base separates execution from settlement, allowing most computation to happen off Ethereum mainnet. 
+This modular design helps reduce congestion on the base layer while still benefiting from Ethereum's security for final settlement.
