@@ -1,5 +1,5 @@
 # BASE11
-#The Role of Optimism in Base's Technical Foundation
+## Why Liquidity is Important on Base
 
-Base is built using the OP Stack, an open-source technology originally developed by Optimism. 
-This shared foundation allows Base to benefit from continuous improvements made by the broader Optimism community.
+For any Layer 2 chain to succeed, it needs deep liquidity in its decentralized exchanges. 
+Good liquidity means users can trade large amounts without causing big price swings, making the ecosystem more attractive for both traders and developers.
