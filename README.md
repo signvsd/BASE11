@@ -1,5 +1,5 @@
 # BASE11
-Base Chain's Approach to Cheap Computation
+#The Role of Optimism in Base's Technical Foundation
 
-Base achieves low-cost computation by executing transactions off the main Ethereum chain and only using Ethereum for final settlement and dispute resolution. 
-This separation allows users to enjoy much cheaper interactions compared to doing everything directly on Ethereum mainnet.
+Base is built using the OP Stack, an open-source technology originally developed by Optimism. 
+This shared foundation allows Base to benefit from continuous improvements made by the broader Optimism community.
