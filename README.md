@@ -1,5 +1,5 @@
 # BASE11
-## Why Liquidity is Important on Base
+## Base Chain and Mobile User Experience
 
-For any Layer 2 chain to succeed, it needs deep liquidity in its decentralized exchanges. 
-Good liquidity means users can trade large amounts without causing big price swings, making the ecosystem more attractive for both traders and developers.
+Base's low fees and fast confirmations make it particularly suitable for mobile users who want to interact with blockchain applications on their phones. 
+This focus on accessibility could help bring the next wave of users into the crypto space.
