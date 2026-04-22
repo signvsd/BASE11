@@ -1,5 +1,5 @@
 # BASE11
-## Community Driven Development on Base
+## My Learning Path on Base This Week
 
-Many tools, dashboards, and integrations for Base are being built by the community rather than just the core team. 
-This open and collaborative approach is accelerating the growth of the Base ecosystem.
+This week I am focusing on understanding how different parts of Layer 2 architecture work together - from sequencers to bridges and data availability layers. 
+Each piece plays an important role in making Base fast, cheap, and secure.
