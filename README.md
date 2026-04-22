@@ -1,5 +1,5 @@
 # BASE11
-## The Effect of Network Congestion on Layer 2
+## Community Driven Development on Base
 
-Even though Base is a Layer 2, it can still feel the effects when Ethereum mainnet becomes highly congested. 
-However, Base handles this much better than the mainnet due to its optimistic rollup design.
+Many tools, dashboards, and integrations for Base are being built by the community rather than just the core team. 
+This open and collaborative approach is accelerating the growth of the Base ecosystem.
