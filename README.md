@@ -1,5 +1,5 @@
 # BASE11
-## How Developers Can Contribute to Base Ecosystem
+## The Difference Between Soft and Hard Finality
 
-Developers can contribute to the Base ecosystem by building new tools, creating useful dApps, participating in governance discussions, or even just sharing their learning publicly. 
-Every small contribution helps the network grow stronger.
+On Base, transactions get soft finality very quickly after being included in a block. 
+However, hard finality only comes after the fraud proof window on Ethereum closes, providing stronger security guarantees.
