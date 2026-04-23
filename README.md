@@ -1,5 +1,5 @@
 # BASE11
-## My Learning Path on Base This Week
+## Base Chain's Use of Ethereum for Security
 
-This week I am focusing on understanding how different parts of Layer 2 architecture work together - from sequencers to bridges and data availability layers. 
-Each piece plays an important role in making Base fast, cheap, and secure.
+Base relies on Ethereum mainnet for its ultimate security. 
+While it executes transactions quickly on Layer 2, it periodically posts data to Ethereum, allowing anyone to verify the correctness of the chain using Ethereum's decentralized validators.
