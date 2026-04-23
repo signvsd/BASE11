@@ -1,5 +1,5 @@
 # BASE11
-## Base Chain's Use of Ethereum for Security
+## The Benefits of Short Block Times on Base
 
-Base relies on Ethereum mainnet for its ultimate security. 
-While it executes transactions quickly on Layer 2, it periodically posts data to Ethereum, allowing anyone to verify the correctness of the chain using Ethereum's decentralized validators.
+Base produces blocks approximately every 2 seconds. 
+This short block time makes transactions feel almost instant to users, greatly improving the experience when using decentralized applications compared to slower networks.
