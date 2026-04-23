@@ -1,5 +1,5 @@
 # BASE11
-## The Difference Between Soft and Hard Finality
+## Base Chain's Strategy for Mass Adoption
 
-On Base, transactions get soft finality very quickly after being included in a block. 
-However, hard finality only comes after the fraud proof window on Ethereum closes, providing stronger security guarantees.
+Base is designed with mass adoption in mind by focusing on low costs, simple user experience, and strong integrations with popular wallets like Coinbase Wallet. 
+This strategy aims to bring millions of new users into the onchain world.
