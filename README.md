@@ -1,5 +1,5 @@
 # BASE11
-## The Evolution of User Experience on Base
+## Understanding Gas Token Usage on Base
 
-Base has focused heavily on improving user experience by reducing wallet confirmation fatigue and making transactions feel instant. 
-This attention to UX is helping bridge the gap between traditional apps and blockchain applications.
+On Base, ETH serves as both the gas token and the native currency. 
+This simple design makes it easier for new users to start using the network without needing to acquire separate tokens for gas.
