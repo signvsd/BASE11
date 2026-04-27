@@ -1,5 +1,5 @@
 # BASE11
-## The Impact of Base on Ethereum's Overall Health
+## Exploring Base Native Yield Opportunities
 
-By offloading transactions to Layer 2, Base helps reduce congestion and gas prices on Ethereum mainnet. 
-A healthy Base ecosystem ultimately benefits the entire Ethereum network by improving scalability.
+Base offers various native yield opportunities through lending protocols, liquidity provision, and staking. 
+These opportunities allow users to earn returns on their assets while participating in the ecosystem.
