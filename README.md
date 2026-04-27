@@ -1,5 +1,5 @@
 # BASE11
-## Base Chain Path to Decentralization
+## The Impact of Base on Ethereum's Overall Health
 
-While Base started with some centralized elements for stability, the long-term plan involves increasing decentralization through community governance and multiple sequencers. 
-This gradual approach aims to balance security and openness.
+By offloading transactions to Layer 2, Base helps reduce congestion and gas prices on Ethereum mainnet. 
+A healthy Base ecosystem ultimately benefits the entire Ethereum network by improving scalability.
