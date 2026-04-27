@@ -1,5 +1,5 @@
 # BASE11
-## Understanding Gas Token Usage on Base
+## Base Chain Path to Decentralization
 
-On Base, ETH serves as both the gas token and the native currency. 
-This simple design makes it easier for new users to start using the network without needing to acquire separate tokens for gas.
+While Base started with some centralized elements for stability, the long-term plan involves increasing decentralization through community governance and multiple sequencers. 
+This gradual approach aims to balance security and openness.
