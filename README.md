@@ -1,5 +1,5 @@
 # BASE11
-## Importance of Testing on Base Sepolia Testnet
+## Base Chain Layer 2 Design Philosophy
 
-Before deploying any contract to Base Mainnet with real ETH, testing thoroughly on Base Sepolia testnet is highly recommended. 
-It helps identify issues with gas usage, logic errors, and network configuration without any financial risk.
+Base follows a simple yet powerful Layer 2 design philosophy - execute fast and cheap on Layer 2, settle securely on Ethereum. 
+This balanced approach makes blockchain feel more like normal internet applications for everyday users.
