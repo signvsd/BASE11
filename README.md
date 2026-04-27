@@ -1,5 +1,5 @@
 # BASE11
-## Base Chain Layer 2 Design Philosophy
+## Why Low Fees Matter for Onchain Gaming
 
-Base follows a simple yet powerful Layer 2 design philosophy - execute fast and cheap on Layer 2, settle securely on Ethereum. 
-This balanced approach makes blockchain feel more like normal internet applications for everyday users.
+Low transaction fees on Base make onchain gaming practical. 
+Players can perform multiple actions like moving characters, trading items, or minting NFTs without paying high gas costs that would otherwise make the experience frustrating.
