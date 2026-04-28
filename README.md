@@ -1,5 +1,5 @@
 # BASE11
-## Understanding Gas Optimization on Base
+## Base Chain Role in the Broader Ethereum Ecosystem
 
-Writing gas-efficient smart contracts is an important skill when building on Base. 
-Simple code, minimal storage usage, and avoiding unnecessary computations can significantly reduce transaction costs for users.
+Base is not competing with Ethereum but complementing it. 
+By handling most user activity on Layer 2, it helps Ethereum scale while maintaining its position as the most secure settlement layer.
