@@ -1,5 +1,5 @@
 # BASE11
-## Base Chain and Its Focus on Developer Experience
+## Understanding Gas Optimization on Base
 
-Base has put significant effort into making the developer experience smooth by supporting popular tools and providing clear documentation. 
-This focus helps new developers get started quickly without facing unnecessary technical hurdles.
+Writing gas-efficient smart contracts is an important skill when building on Base. 
+Simple code, minimal storage usage, and avoiding unnecessary computations can significantly reduce transaction costs for users.
