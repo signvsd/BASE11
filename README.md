@@ -1,5 +1,5 @@
 # BASE11
-## Base Chain and Its Growing NFT Ecosystem
+## Learning Bridge Security When Moving Assets to Base
 
-Low fees on Base make minting and trading NFTs much more practical. 
-This has led to increased activity in the NFT space on Base compared to higher-cost networks.
+When bridging assets from Ethereum to Base, understanding the security of the official bridge is important. 
+It uses Ethereum's security for final settlement while providing fast transfers to Layer 2.
