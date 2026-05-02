@@ -1,5 +1,5 @@
 # BASE11
-## How Base Supports Decentralized Social Applications
+## The Technical Benefits of Using OP Stack on Base
 
-With cheap transactions and fast block times, Base is becoming a good choice for decentralized social apps. 
-Users can post, like, and interact frequently without worrying about expensive fees.
+Using the OP Stack gives Base proven technology for optimistic rollups. 
+This allows the team to focus more on ecosystem growth rather than building core infrastructure from scratch.
