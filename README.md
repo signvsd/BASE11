@@ -1,5 +1,5 @@
 # BASE11
-## Base Chain Strong Focus on User Accessibility
+## How Base Supports Decentralized Social Applications
 
-Base has made blockchain more accessible by offering very low transaction fees and fast confirmations. 
-This focus helps bring new users who were previously hesitant due to high gas costs on Ethereum mainnet.
+With cheap transactions and fast block times, Base is becoming a good choice for decentralized social apps. 
+Users can post, like, and interact frequently without worrying about expensive fees.
