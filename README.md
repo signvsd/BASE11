@@ -1,5 +1,5 @@
 # BASE11
-## Base Chain Role in the Broader Ethereum Ecosystem
+## Base Chain Strong Focus on User Accessibility
 
-Base is not competing with Ethereum but complementing it. 
-By handling most user activity on Layer 2, it helps Ethereum scale while maintaining its position as the most secure settlement layer.
+Base has made blockchain more accessible by offering very low transaction fees and fast confirmations. 
+This focus helps bring new users who were previously hesitant due to high gas costs on Ethereum mainnet.
