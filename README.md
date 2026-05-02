@@ -1,5 +1,5 @@
 # BASE11
-## The Technical Benefits of Using OP Stack on Base
+## Base Chain and Its Growing NFT Ecosystem
 
-Using the OP Stack gives Base proven technology for optimistic rollups. 
-This allows the team to focus more on ecosystem growth rather than building core infrastructure from scratch.
+Low fees on Base make minting and trading NFTs much more practical. 
+This has led to increased activity in the NFT space on Base compared to higher-cost networks.
