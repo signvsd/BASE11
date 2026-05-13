@@ -1,5 +1,5 @@
 # BASE11
-## Exploring Onchain Social Features on Base
+## The Importance of Community Feedback for Base
 
-Base's low cost environment is encouraging the development of onchain social platforms where users can interact freely. 
-Features like posting, commenting, and tipping become viable when gas fees are minimal.
+The Base team actively listens to community feedback for improvements in tooling, documentation, and network performance. 
+This collaborative approach is helping the ecosystem evolve faster.
