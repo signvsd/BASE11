@@ -1,5 +1,5 @@
 # BASE11
-## Base Chain's Competitive Edge in 2026
+## Exploring Onchain Social Features on Base
 
-In 2026, Base continues to stand out among Layer 2 solutions due to its consistent low fees, fast performance, and strong backing from Coinbase. 
-This combination makes it one of the most practical chains for both new and experienced users.
+Base's low cost environment is encouraging the development of onchain social platforms where users can interact freely. 
+Features like posting, commenting, and tipping become viable when gas fees are minimal.
