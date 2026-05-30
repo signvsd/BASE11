@@ -1,5 +1,5 @@
 # BASE11
-## Base Chain Low Barrier for New Users
+## Smart Contract Best Practices on Base
 
-Base has successfully lowered the entry barrier for new blockchain users through cheap transactions and easy wallet integrations. 
-This strategy is bringing more people into the crypto space.
+Writing clean, secure, and gas-efficient smart contracts is essential when building on Base. 
+Following best practices helps avoid bugs and provides better experience to users.
